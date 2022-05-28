@@ -21,10 +21,10 @@ class Student():
     else:
       print("Age must be int. please try again")
 
-Bob = Student (name="Bob", age=26, tracks=["FE", "BE"],score=20.98)
+Lex = Student (name="Lex", age=24, tracks=["FE", "BE"],score=20.98)
 
 # Expected methods
-Bob.change_name("Peter")
-Bob.add_track("UI/UX")
-Bob.change_age(34)
-Bob.get_score()
+Lex.change_name("John")
+Lex.add_track("UI/UX")
+Lex.change_age(34)
+Lex.get_score()
