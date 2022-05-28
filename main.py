@@ -1,3 +1,4 @@
+
 class Student():
 #lassignment) Skeleton class. Add your code here
   def __init__(self, name, age, tracks, score):
